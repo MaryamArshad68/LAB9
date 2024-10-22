@@ -1,0 +1,36 @@
+
+.bold-text {
+    font-weight: bold;
+}
+
+.italic-text {
+    font-style: italic;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+
+.underline-text {
+    text-decoration: underline;
+}
+.first-div {
+    width: 500px;
+    height: 500px;
+    background-color: lightblue; /* You can choose any color you like */
+    border-width: 3px;
+    border-color: darkblue; /* You can choose any color you like */
+    border-style: solid;
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;
+}
+
+.normal-para {
+    color: green;
+}
+
+#fav-para {
+    color: purple;
+}
